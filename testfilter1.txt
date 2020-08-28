@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Version: 202008271015
 ! Title: filter1
-! Last modified: 27 Aug 2020 15:13 UTC
+! Last modified: 28 Aug 2020 9:00 UTC
 ! Expires: 1 days (update frequency)
 rcvlink.com^$third-party
 ankunding.biz^$third-party
@@ -9,3 +9,5 @@ franecki.net^$third-party
 franeski.net^$third-party
 gismeteo.ua##.media.media_height_l
 gismeteo.ua##.media.media_height_m
+rezka.ag##.b-seriesupdate__block
+
